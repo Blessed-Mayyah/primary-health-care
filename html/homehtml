@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthcare Facility</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="Healthcare Facility Logo">
+        </div>
+        <nav>
+            
+                <a href="index.html">Home</a>
+                <a href="about.html">About Us</a>
+                <a href="services.html">Services</a>
+                <a href="doctors.html">Doctors</a>
+                <a href="contact.html">Contact</a>
+            
+        </nav>
+    </header>
+
+    <main>
+        Welcome Message: 
+        A warm greeting welcoming visitors to the primary health care facility. This sets a friendly tone and helps visitors feel comfortable.
+
+Mission Statement: 
+A brief statement outlining the facility's mission and commitment to providing high-quality, accessible healthcare to the community.
+
+Services Offered: 
+A list of primary health care services provided by the facility. This could include general medical care, preventive care, immunizations, chronic disease management, mental health services, women's health services, pediatric care, and more.
+
+Meet Our Team: 
+Information about the healthcare providers working at the facility, including doctors, nurses, nurse practitioners, and other staff members. Brief bios or photos can help patients get to know the team.
+
+Contact Information: 
+Clear contact information, including the facility's address, phone number, email address, and any other relevant contact details. You may also include a map for easy navigation.
+
+Appointment Scheduling: 
+Instructions for scheduling appointments, whether by phone, online, or through a patient portal. Include information about walk-in appointments if applicable.
+
+Office Hours: 
+Clearly stated office hours, including any extended or weekend hours. This helps patients know when they can access care.
+
+Insurance and Payment Information: 
+Details about accepted insurance plans, payment options, and any financial assistance programs available to patients.
+
+Patient Resources: 
+Links or information about patient resources, such as patient forms, educational materials, and community health resources.
+
+COVID-19 Information: 
+If applicable, provide updates on COVID-19 protocols, vaccination information, testing availability, and any other relevant pandemic-related information.
+
+News and Updates: 
+Regularly updated news or blog section with information about health tips, community events, facility updates, and other relevant announcements.
+
+Language Accessibility: 
+Information about language interpretation services available for non-English-speaking patients.
+
+Patient Feedback: 
+A section for patient testimonials or feedback, demonstrating the facility's commitment to patient satisfaction and quality care.
+
+Emergency Information: 
+Clear instructions on what to do in case of a medical emergency, including when to call 911 or go to the nearest emergency room.
+
+Social Media Links: 
+Links to the facility's social media profiles for patients who want to stay connected and informed.
+        <!-- Main content goes here -->
+    </main>
+
+    <footer>
+        All Rights Reserved@BK 2016.
+    </footer>
+</body>
+</html>
